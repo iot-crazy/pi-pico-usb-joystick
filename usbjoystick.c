@@ -1,6 +1,8 @@
 /* 
  * The MIT License (MIT)
  *
+ * BASED ON CODE FROM TinyUSB and the Raspberry Pi Pico Examples
+ * 
  * Copyright (c) 2019 Ha Thach (tinyusb.org)
  *
  * Permission is hereby granted, free of charge, to any person obtaining a copy
